@@ -4,7 +4,7 @@ body{
 
 div{
     width: 86%;
-    min-height: 600px;
+    min-height: 200px;
     background-color: lightgray;
     
 }
@@ -12,4 +12,3 @@ div{
 h1{color: blanchedalmond;
     text-transform: uppercase;}
 
-    
