@@ -4,8 +4,10 @@ body{
 
 div{
     width: 86%;
-    min-height: 200px;
+    min-height: 100px;
     background-color: lightgray;
+    padding: 50px;
+    border-radius: 40px;
     
 }
 
